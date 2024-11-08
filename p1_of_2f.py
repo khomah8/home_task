@@ -2,7 +2,7 @@
 
 import json
 f2 = open("output.txt", "w")
-with open('/home/omth/homeTask/data.json') as f1:
+with open('data.json') as f1:
 	data1 = json.load(f1);	data2 = data1["assignment_results"][0]["shown_price"]
 	data3 = data2.items();
 	for x, y in data3: 	minim = float(y);
