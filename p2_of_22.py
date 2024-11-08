@@ -1,6 +1,6 @@
 # item 3 Print the total price (Net price + taxes) for all rooms along with the room type
 import json
-with open('/home/omth/home_task1/ht_data.json') as f1:
+with open('data.json') as f1:
 	data1 = json.load(f1);	data2 = data1["assignment_results"][0]["net_price"]
 	data3 = data2.items();
 	data4 = data1["assignment_results"][0]["ext_data"];
