@@ -5,3 +5,4 @@
 - https://www.w3schools.com/python/trypython.asp?filename=demo_iterator
 - https://www.devopsschool.com/blog/python-tutorials-difference-between-list-array-tuple-set-dict/
 - https://wiki.python.org/ 
+- https://www.programiz.com/python-programming/generator  
